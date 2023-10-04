@@ -4,3 +4,5 @@ In this project I am developing an image recognition tool to detect the anomalie
 It is a robust Deep Learning project which aims to provide better solutions and reduce crop wastage.
 Till now models based on potato leaf analysis, Plumeria and sweet lime have been added and more are in the pipeline. 
 They have been deployed into a website using React JS.
+
+Files are being Updated at regular intervals 
